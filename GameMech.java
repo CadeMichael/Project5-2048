@@ -1,3 +1,11 @@
+import java.util.List;
+import javafx.scene.layout.BorderPane;
+import javafx.application.Application;
+import javafx.scene.Scene;
+import javafx.scene.control.Button;
+import javafx.scene.layout.GridPane;
+import javafx.stage.Stage;
+
 /**
  * this class serves to deal with the mechanics of the game, ie moving up, down, left, right, or diagonal. it uses a 2d array of ints to represent the board.
  * @author cade
